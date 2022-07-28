@@ -1,0 +1,8 @@
+netsh wlan export profile folder=c:\ key=clear
+
+123.252
+
+Vessel Name
+MV KOTA LAYAR
+DURLEY
+v10012
